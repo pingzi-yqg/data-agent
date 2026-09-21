@@ -1,0 +1,8 @@
+[project]
+name = "data-agent"
+version = "0.2.0"
+description = "Knowledge-guided, auditable data analysis agent for Codex"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

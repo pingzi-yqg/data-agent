@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Agent"
+  short_description: "基于企业知识库完成安全取数、SQL审计与可追溯数据分析报告生成"
+  default_prompt: "使用 $data-agent 分析这个数据需求，并保留可追溯证据。"

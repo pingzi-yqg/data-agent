@@ -1,0 +1,8 @@
+.env
+knowledge/
+index.db
+projects/*
+!projects/.gitkeep
+__pycache__/
+*.pyc
+
